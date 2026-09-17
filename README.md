@@ -1,23 +1,22 @@
 <!-- README.md
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Obiekwe Great</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Bashir Saka</span></h1>
 
 <p align="center">
-  🌍 Nigeria | 💻 Frontend Developer | 🎨 UI/UX Designer | 🎓 ALX SE Graduate
+  🌍 Nigeria | 💻 Frontend Developer | 🎨 | Ts Academy Graduate
 </p>
 
 ---
 
-<h3 align="center">✨ Turning ideas into interactive, animated web experiences ✨</h3>
 
 ---
 
 ### 🚀 About Me
 
-I’m a **Frontend Developer & UI Designer** passionate about crafting **beautiful, high-performance, and animated web experiences**.
-As an **ALX Software Engineering Graduate**, my focus has shifted from learning fundamentals to **mastering motion design and interaction** — building experiences that *feel alive*.
+I’m a **Frontend Developer & UI Designer** passionate about crafting **beautiful, high-performance website**.
+As an **TS ACADEMY GRADUATE**, my focus has shifted from learning fundamentals to **mastering  design and interaction**  building experiences that *feel alive*.
 
-Currently exploring **GSAP** and **Lenis**, with the goal of recreating **top creative agency websites** to sharpen my motion and storytelling skills.
+
 
 ---
 
@@ -37,10 +36,10 @@ I’m driven to work on:
 ### 🛠 Tech Stack
 
 ```html
-🌐 Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
-🎨 Styling: Tailwind CSS, Sass, Figma
-⚙ Tools: Git, GitHub, VS Code, WebStorm
-📦 Frameworks/Libraries: React.js, Next.js, GSAP, Lenis   -->
+🌐 Languages: HTML5, CSS3, JavaScript (ES6+), 
+🎨 Styling: Tailwind CSS, Figma
+⚙ Tools: Git, GitHub, VS Code, 
+📦 Frameworks/Libraries: React.js,    -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA52F&height=200&section=header&text=Obiekwe%20Kosi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descColor=a3c4bc" />
@@ -52,7 +51,7 @@ I’m driven to work on:
   <a href="https://warshipstudio.com" target="_blank">
     <img src="https://img.shields.io/badge/Selected Portfolio-warshipstudio.com-FFA52F?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="mailto:kozzyworkspace@gmail.com">
+  <a href="mailtomessagesultandev3@gmail.com">
     <img src="https://img.shields.io/badge/Email-kozzyworkspace-FFA52F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kosi-obiekwe-80b9b125a" target="_blank">
@@ -77,9 +76,6 @@ Frontend developer and UI designer focused on building **high-performance, anima
 
 ### 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,figma,git,photoshop,illustrator,github,vscode&theme=dark" />
-</div>
 
 ---
 
