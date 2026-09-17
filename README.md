@@ -1,10 +1,4 @@
-# 👋 Hey, I'm <span style="color:#00BFFF;">Bashir Saka</span>
 
-<p align="center">
-  🌍 Nigeria | 💻 Frontend Developer | 🎨 Graphics Designer | 🎓 TS Academy Graduate
-</p>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Bashir%20Saka&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Graphics%20Designer&descAlignY=58&descColor=ffffff" />
