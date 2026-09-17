@@ -1,99 +1,111 @@
-# 👋 Hi, I'm SULTAN_DEV
+<!-- README.md
 
-### Frontend Developer | React Developer | Graphics Designer
+<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Obiekwe Great</span></h1>
 
-I'm a Nigerian frontend developer who enjoys turning ideas into clean, functional and responsive websites.
-
-I'm currently focused on improving my skills in **React and modern frontend development**, while building real projects and learning through the process.
-
-I also have experience in **graphics design**, which helps me approach web development with an eye for visual design, layout and user experience.
-
-> "Build. Learn. Improve. Repeat."
+<p align="center">
+  🌍 Nigeria | 💻 Frontend Developer | 🎨 UI/UX Designer | 🎓 ALX SE Graduate
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
-### Design
-
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00A651?style=for-the-badge\&logo=coreldraw\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+<h3 align="center">✨ Turning ideas into interactive, animated web experiences ✨</h3>
 
 ---
 
-## 🚀 What I'm Currently Doing
+### 🚀 About Me
 
-* 🌱 Improving my **React and JavaScript** skills
-* 💻 Building real-world web projects
-* 🎨 Combining **web development and graphic design**
-* 📱 Building responsive websites for different screen sizes
-* 🧠 Learning by building instead of only following tutorials
-* 🔨 Working on improving my portfolio and developer presence
-* 🤝 Open to collaborations, freelance opportunities and interesting projects
+I’m a **Frontend Developer & UI Designer** passionate about crafting **beautiful, high-performance, and animated web experiences**.
+As an **ALX Software Engineering Graduate**, my focus has shifted from learning fundamentals to **mastering motion design and interaction** — building experiences that *feel alive*.
+
+Currently exploring **GSAP** and **Lenis**, with the goal of recreating **top creative agency websites** to sharpen my motion and storytelling skills.
 
 ---
 
-## 💻 Projects
+### 🎯 Vision
 
-Some of the projects I've built while learning and improving:
+To become a **world-class Frontend Engineer**, merging **design precision** with **interactive creativity** — crafting digital products that are not just seen, but *felt*.
 
-* 🌦️ **Weather App** — React-based weather application
-* 🍔 **Chowdeck Reference Website** — React website inspired by Chowdeck's web experience
-* 🖥️ **Frontend Practice Projects** — Small projects focused on React, JavaScript, components and UI development
-
-More projects coming as I continue building.
-
----
-
-## 🎨 Beyond Code
-
-Before and alongside web development, I've developed experience in **graphics design**.
-
-I enjoy working with:
-
-* 🎨 Graphic design
-* 🖼️ Social media designs
-* 📢 Banner designs
-* 📄 CV and document design
-* 💻 UI-focused design
-* 🖥️ CorelDRAW
-
-I believe understanding design makes me a better developer because I'm not only thinking about whether something works — I'm also thinking about how it looks and feels.
+I’m driven to work on:
+- 🌐 Real-world problem–solving web apps
+- 🛍 E-commerce & fintech platforms
+- 🧠 AI-driven user experiences
+- 🧪 Open-source design systems
+- 🎞 Interactive animations & creative web storytelling
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 Tech Stack
 
-![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=transparent)
+```html
+🌐 Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
+🎨 Styling: Tailwind CSS, Sass, Figma
+⚙ Tools: Git, GitHub, VS Code, WebStorm
+📦 Frameworks/Libraries: React.js, Next.js, GSAP, Lenis   -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=transparent)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA52F&height=200&section=header&text=Obiekwe%20Kosi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descColor=a3c4bc" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://warshipstudio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Selected Portfolio-warshipstudio.com-FFA52F?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:kozzyworkspace@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kozzyworkspace-FFA52F?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kosi-obiekwe-80b9b125a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kosi%20Obiekwe-FFA52F?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/Kozzy_" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-Kozzy__-FFA52F?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+</div>
+
+<br/>
 
 ---
 
-## 🎯 My Goal
+### ⚡ About Me
 
-I'm working towards becoming a strong **Frontend Engineer** who can take an idea from concept to a functional, polished web experience.
+Frontend developer and UI designer focused on building **high-performance, animated web experiences** that don't just look good — they _feel_ alive.
 
-I'm still learning, still building and still improving.
+> _"Every interface has a rhythm. Every pixel knows why."_
 
 ---
 
-## 🤝 Let's Connect
+### 🛠 Tech Stack
 
-If you're interested in working together, collaborating on a project, or just talking about web development, feel free to connect with me.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,figma,git,photoshop,illustrator,github,vscode&theme=dark" />
+</div>
 
-**Building my skills one project at a time. 🚀**
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KosisoObiekwe&theme=dark&background=FFA52F&ring=ff0000&fire=ff0000&currStreakLabel=000000&border=000000&stroke=000000&currStreakNum=000000&sideLabels=000000&sideNums=000000&dates=000000" />
+</div>
+
+---
+
+### 🎯 Currently
+- 🤝 Open to **freelance**, **collabs** and **full-time** roles
+
+---
+
+### 🌍 Vision
+
+To become a **world-class Frontend Engineer**  merging design precision with interactive creativity, building digital products that are not just seen, but _felt_.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA52F&height=120&section=footer" />
+</div>
