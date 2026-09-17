@@ -30,7 +30,7 @@ I'm a **TS Academy Graduate** and currently focused on improving my skills in  b
 
 My background in **graphics design** has also helped me develop an eye for visual design, layouts, typography and creating designs that communicate clearly.
 
-> *"“Great experiences earn attention. Great products earn growth.”  ."*
+> *“Great experiences earn attention. Great products earn growth.” *
 
 ---
 
@@ -54,37 +54,9 @@ My background in **graphics design** has also helped me develop an eye for visua
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
----
+--
 
-### 🚀 What I Do
 
-* 🌐 Build responsive websites
-* ⚛️ Develop web interfaces with React.js
-* 🎨 Create professional graphics and visual designs
-* 📱 Build interfaces that work across different screen sizes
-* 🧩 Create reusable React components
-* 💻 Work with HTML, CSS and JavaScript
-* 🎯 Turn ideas into functional digital experiences
-* 📚 Continuously improve my frontend development skills
-
----
-
-### 🎨 Graphics Design
-
-Alongside web development, I'm an experienced **Graphics Designer**.
-
-I create:
-
-* 📢 Professional banners
-* 🖼️ Promotional designs
-* 📱 Social media graphics
-* 📄 CV designs
-* 🎨 Business and marketing materials
-* 🖥️ Digital graphics
-
-I enjoy combining **design and technology** to create things that are both visually appealing and useful.
-
----
 
 ### 📊 GitHub Stats
 
@@ -98,18 +70,14 @@ I enjoy combining **design and technology** to create things that are both visua
 
 </div>
 
----
+**Currently**.
 
-### 🎯 Currently
+Building and scaling Warship Studios
+🎬 Crafting high-converting SaaS & brand videos
+🌀 Mastering GSAP, Lenis & creative web animation
+🤝 Open to freelance, collabs and full-time roles
 
-* 🌱 Improving my **JavaScript and React.js** skills
-* 💻 Building real-world web experiences
-* 🎨 Growing my graphics design skills
-* 🧠 Learning through practical work
-* 🤝 Open to freelance opportunities and collaborations
-* 🚀 Working towards becoming a stronger Frontend Engineer
-
----
+I enjoy combining **design and technology** to create things that are both visually appealing and useful.
 
 ### 🌍 Vision
 
