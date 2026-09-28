@@ -72,9 +72,7 @@ My background in **graphics design** has also helped me develop an eye for visua
 
 **Currently**.
 
-Building and scaling Warship Studios
-🎬 Crafting high-converting SaaS & brand videos
-🌀 Mastering GSAP, Lenis & creative web animation
+ Crafting high-converting websites
 🤝 Open to freelance, collabs and full-time roles
 
 I enjoy combining **design and technology** to create things that are both visually appealing and useful.
